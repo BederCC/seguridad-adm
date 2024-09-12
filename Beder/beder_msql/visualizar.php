@@ -1,7 +1,7 @@
 <?php
 // Configuración de la conexión a la base de datos
 $host = "localhost";
-$dbname = "dbsistema";  // Cambia esto por el nombre de tu base de datos
+$dbname = "seguridadadb";  // Cambia esto por el nombre de tu base de datos
 $username = "root";
 $password = "";  // Cambia esto por tu contraseña de MySQL
 
